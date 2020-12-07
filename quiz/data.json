@@ -1,0 +1,25 @@
+[{
+    "question": "Q1: Where was Alinur born?",
+    "option1": "Astana",
+    "option2": "Nur-Sultan",
+    "option3": "Taldykorgan",
+    "option4": "Tselinograd",
+    "answer": "Taldykorgan"
+},
+{
+    "question": "Q2: Wich lesson he loves most?",
+    "option1": "Algo",
+    "option2": "Webka",
+    "option3": "FE",
+    "option4": "Electronics",
+    "answer": "Webka"
+},
+{
+    "question": "Q3: in which university is he studying now?",
+    "option1": "SDU",
+    "option2": "MUIT",
+    "option3": "KAZGU",
+    "option4": "JGU",
+    "answer": "SDU"
+}
+]
